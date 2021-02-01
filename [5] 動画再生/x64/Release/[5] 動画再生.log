@@ -1,0 +1,10 @@
+﻿  [5] 動画再生.cpp
+c:\users\taso\source\repos\c++_training_session\[5] 動画再生\[5] 動画再生.cpp(21): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\taso\source\repos\c++_training_session\[5] 動画再生\[5] 動画再生.cpp(23): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\taso\source\repos\c++_training_session\[5] 動画再生\[5] 動画再生.cpp(25): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  1 of 246 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  [5] 動画再生.vcxproj -> C:\Users\Taso\source\repos\C++_Training_Session\x64\Release\[5] 動画再生.exe
