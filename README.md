@@ -1,4 +1,4 @@
-# basic_image
+# Simple image processing
 Some simple processing of images
 
 Visual Studio 2017 Community
